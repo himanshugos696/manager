@@ -1,0 +1,17 @@
+@media (max-width: 767px){
+    .app-main .app-main__inner{
+        padding: 0.2rem 0.2rem 0;
+    }
+
+    #pills-home .col-3 {
+        max-width: 24%;
+    }
+
+    .nav.nav-pills.mb-3.wrapper{
+        flex-wrap: initial;
+    }
+
+    #v-pills-tab .nav-link{
+        padding: .5rem 0.5rem;
+    }
+}
